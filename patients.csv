@@ -1,0 +1,11 @@
+Age,Gender,BMI,Smoker,Children,Region,Charges,Diabetes,HeartDisease,ExerciseFrequency
+25,Male,24.5,No,0,Southwest,3200,No,No,3
+45,Female,30.1,Yes,2,Northwest,15000,Yes,Yes,1
+33,Male,27.3,No,1,Southeast,4500,No,No,4
+50,Female,35.2,Yes,3,Southwest,20000,Yes,Yes,0
+29,Male,22.5,No,0,Northeast,3300,No,No,5
+55,Female,29.4,No,1,Northwest,8000,Yes,No,2
+40,Male,34.0,Yes,2,Southeast,18000,Yes,Yes,1
+60,Female,28.5,No,3,Southwest,12000,No,No,3
+35,Male,25.6,No,0,Northeast,4100,No,No,4
+48,Female,31.2,Yes,1,Northwest,16500,Yes,Yes,0
